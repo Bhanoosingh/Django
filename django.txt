@@ -1,0 +1,7 @@
+1)pip install django
+2)move to your desktop
+3)django-admin --version
+4)django-admin startproject <projectname>
+
+5)python manage.py runserver
+6)django-admin startapp <appname>
